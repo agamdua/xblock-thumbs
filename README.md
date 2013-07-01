@@ -1,2 +1,2 @@
-thumb_surgery
+thumbs
 =============
