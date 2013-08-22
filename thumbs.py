@@ -1,7 +1,8 @@
 """An XBlock providing thumbs-up/thumbs-down voting.
 """
 
-from xblock.core import XBlock, Scope, Integer, Boolean
+from xblock.core import XBlock
+from xblock.fields import Scope, Integer, Boolean
 from xblock.fragment import Fragment
 from xblock.problem import InputBlock
 import pkg_resources
